@@ -1,4 +1,4 @@
-import type CategoriaDasNoticiasInterface from '../types/categoria-das-noticias-interface'
+import type CategoriaDasNoticiasInterface from '../type/categoria-das-noticias-interface'
 
 const categoriasDasNoticias: CategoriaDasNoticiasInterface[] = [
   {

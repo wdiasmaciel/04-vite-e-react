@@ -1,6 +1,6 @@
 import './Painel.css'
 import Cartao from '../cartao/Cartao'
-import type CategoriaDasNoticiasInterface from '../../types/categoria-das-noticias-interface'
+import type CategoriaDasNoticiasInterface from '../../type/categoria-das-noticias-interface'
 import categoriasDasNoticias from '../../data/categorias-das-noticias'
 
 const categorias: CategoriaDasNoticiasInterface[] = categoriasDasNoticias
