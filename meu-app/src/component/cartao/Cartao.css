@@ -1,0 +1,18 @@
+.cartao {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid #bbb;
+  padding: 0.5rem;
+  border-radius: 0.5rem;
+  width: 15rem;
+  height: 20rem;
+  background-color: #f7f7f7;
+  box-shadow: 0rem 0.3rem 0.3rem 0.03rem #ccc;
+}
+
+.corpo-do-cartao {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  margin-top: 0.5rem;
+}

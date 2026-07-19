@@ -1,0 +1,18 @@
+.botao-do-cartao {
+  max-width: 100%;
+  padding: 0.5rem;
+  background-color: blue;
+  color: #eee;
+  font-weight: bold;
+  border: none;
+  border-radius: 0.5rem;
+  cursor: pointer;
+  margin-top: 1rem;
+  text-align: center;
+  text-decoration: none;
+}
+
+.botao-do-cartao:hover {
+  background-color: #1818b0;
+  color: white;
+}

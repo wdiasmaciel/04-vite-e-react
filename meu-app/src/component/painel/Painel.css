@@ -1,0 +1,9 @@
+.painel {
+  /* border: .1rem blue solid; */
+  min-height: 100vh;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  padding: 0.5rem;
+  background-color: #f4f4f4;
+}
